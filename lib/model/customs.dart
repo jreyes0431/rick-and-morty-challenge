@@ -1,4 +1,4 @@
-import 'package:flutter/animation.dart';
+part of model;
 
 class CustomColor {
   static const Color primaryGreen = Color(0xFF025959);
